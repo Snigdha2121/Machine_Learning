@@ -1,6 +1,6 @@
 # Machine Learning Notes and Learning
 
-Welcome to the repository where I document my journey through machine learning. This repository is organized to align with the [Udemy Machine Learning Course](https://www.udemy.com/course/machinelearning/?couponCode=HT815INMT81324) and covers both R and Python programming languages.
+Welcome to the repository where I document my journey through machine learning. This repository is organized to align with the [Udemy Machine Learning Course](https://www.udemy.com/course/machinelearning/?couponCode=HT815INMT81324) and covers Machine Learning with Python programming language.
 
 ## Repository Structure
 
